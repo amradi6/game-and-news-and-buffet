@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Device 1",
+    "games": [
+      "E football 25",
+      "Fifa 23",
+      "Call of duty cold war",
+      "Beach buggy 1",
+      "Beach buggy 2",
+      "Pes 18",
+      "Pes 19"
+    ],
+    "mage": [
+      "asset/images/logo_pes25.jpeg",
+      "asset/images/logo_fifa23.jfif",
+      "asset/images/logo_callofdautycoldwar.png",
+      "asset/images/logo_beachBuggy1.jfif",
+      "asset/images/logo_beachBuggy2.jfif",
+      "asset/images/logo_pes18.png",
+      "asset/images/logo_pes19.png"
+    ]
+  },
+  {
+    "name": "Device 2",
+    "ames": [
+      "tomb Raider",
+      "Ghost of Tsushima",
+      "Beach buggy 1",
+      "Grip",
+      "E Football 25",
+      "Pes 19 ",
+      "Pes 18",
+      "FC 24",
+      "Call of duty ops 3"
+    ],
+    "image": [
+      "asset/images/logo_tombRaider.jfif",
+      "asset/images/logo_ghostOfTsushima.png",
+      "asset/images/logo_beachBuggy1.jfif",
+      "asset/images/logo_grip.jfif",
+      "asset/images/logo_pes25.jpeg",
+      "asset/images/logo_pes19.png",
+      "asset/images/logo_pes18.png",
+      "asset/images/logo_fc24.png",
+      "asset/images/logo_callOfDutyOps3.jfif"
+    ]
+  },
+  {
+    "name": "Device 3",
+    "games": [
+      "Gta 5",
+      "Hit man",
+      "Rocket league",
+      "Mine craft dungeons",
+      "Beach buggy 1",
+      "Beach Buggy 2",
+      "Assassin\"s creed Rogue",
+      "E football 25",
+      "Pes 19",
+      "pes 18"
+    ],
+    "image": [
+      "asset/images/logo_gta5.png",
+      "asset/images/logo_hitMan.jfif",
+      "asset/images/logo_Rocket league.png",
+      "asset/images/logo_mineCraftDungeons.jfif",
+      "asset/images/logo_beachBuggy1.jfif",
+      "asset/images/logo_beachBuggy2.jfif",
+      "asset/images/logo_Assassin\"s creed Rogue.jfif",
+      "asset/images/logo_pes25.jpeg",
+      "asset/images/logo_pes19.png",
+      "asset/images/logo_pes18.png"
+    ]
+  },
+  {
+    "name": "Device 4",
+    "games": [
+      "Red Dead Redempion 2",
+      "Minecraft dungeons",
+      "Beach Buggy 1",
+      "Call of duty ops 3",
+      "E football 25",
+      "Pes 19",
+      "pes 18",
+      "Fc 24"
+    ],
+    "image": [
+      "asset/images/logo_Red Dead Redempion.jpg",
+      "asset/images/logo_mineCraftDungeons.jfif",
+      "asset/images/logo_beachBuggy1.jfif",
+      "asset/images/logo_callOfDutyOps3.jfif",
+      "asset/images/logo_pes25.jpeg",
+      "asset/images/logo_pes19.png",
+      "asset/images/logo_pes18.png",
+      "asset/images/logo_fc24.png"
+    ]
+  },
+  {
+    "name": "Device 5",
+    "games": [
+      "Call of duty cold War",
+      "A way out",
+      "Minecraft Dungeons",
+      "Unravel two",
+      "Rocket league",
+      "E football 25",
+      "Pes 19",
+      "Pes 18",
+      "Fc 24"
+    ],
+    "image": [
+      "asset/images/logo_callofdautycoldwar.png",
+      "asset/images/logo_A way out.jfif",
+      "asset/images/logo_mineCraftDungeons.jfif",
+      "asset/images/logo_Unravel two.jfif",
+      "asset/images/logo_Rocket league.png",
+      "asset/images/logo_pes25.jpeg",
+      "asset/images/logo_pes19.png",
+      "asset/images/logo_pes18.png",
+      "asset/images/logo_fc24.png"
+    ]
+  },
+  {
+    "name": "Device 6",
+    "games": [
+      "Need for speed heat",
+      "Gta 5",
+      "Call of duty ops 3",
+      "Rocket league",
+      "Beach buggy 1",
+      "E football 23",
+      "Pes 19",
+      "pes 18",
+      "Fifa 23"
+    ],
+    "image": [
+      "asset/images/logo_Need for speed heat.jfif",
+      "asset/images/logo_gta5.png",
+      "asset/images/logo_callOfDutyOps3.jfif",
+      "asset/images/logo_Rocket league.png",
+      "asset/images/logo_beachBuggy1.jfif",
+      "asset/images/logo_E football 23.png",
+      "asset/images/logo_pes19.png",
+      "asset/images/logo_pes18.png",
+      "asset/images/logo_fifa23.jfif"
+    ]
+  }
+]
