@@ -1,0 +1,22 @@
+[
+  {
+    "name": "شانكي بركات",
+    "price": "SYP 4000",
+    "image": "asset/images/chunky.jpeg"
+  },
+  {
+    "name": "فولت بركات",
+    "price": "SYP 4000",
+    "image": "asset/images/vault.jpeg"
+  },
+  {
+    "name": "معمول تمر",
+    "price": "SYP 2500",
+    "image": "asset/images/mamulTammer.jpeg"
+  },
+  {
+    "name": "معمول جوز",
+    "price": "SYP 4000",
+    "image": "asset/images/mamulGoaez.jpeg"
+  },
+]

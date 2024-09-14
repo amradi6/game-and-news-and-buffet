@@ -1,0 +1,32 @@
+[
+  {
+    "name": "كابتشينو",
+    "price": "SYP 5000",
+    "image": "asset/images/cappuccino.jpeg"
+  },
+  {"name": "1in3", "price": "SYP 4000", "image": "asset/images/3in1.jpeg"},
+  {"name": "شاي", "price": "SYP 4000", "image": "asset/images/tea.jpeg"},
+  {"name": "قهوة", "price": "SYP 4000", "image": "asset/images/coffe.jpeg"},
+  {
+    "name": "اندومي",
+    "price": "SYP 7000",
+    "image": "asset/images/indmie.jpeg"
+  },
+  {"name": "بيبسي", "price": "SYP 6500", "image": "asset/images/pepsi.jpeg"},
+  {"name": "سفن اب", "price": "SYP 6500", "image": "asset/images/7up.jpeg"},
+  {
+    "name": "كولا تنك",
+    "price": "SYP 8000",
+    "image": "asset/images/sampiro.jpeg"
+  },
+  {
+    "name": "عصير طبيعي",
+    "price": "SYP 6000",
+    "image": "asset/images/pepsi1.jpeg"
+  },
+  {
+    "name": "عصير غازي منكه",
+    "price": "SYP 6000",
+    "image": "asset/images/sampiro.jpeg"
+  }
+]

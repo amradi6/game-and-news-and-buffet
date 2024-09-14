@@ -1,0 +1,12 @@
+[
+  {
+    "name": "اركيلة تفاحتين",
+    "price": "SYP 11000",
+    "image": "asset/images/apple.jpeg"
+  },
+  {
+    "name": "اركيلة بولو",
+    "price": "SYP 11000",
+    "image": "asset/images/polo.jpeg"
+  }
+]
